@@ -15,7 +15,7 @@ This Power BI dashboard provides comprehensive HR analytics, tracking headcount 
   - Gender: Male (61%), Female (39%)  
   - Education: Bachelor's degree (2,211), Master's degree (434)  
 
-![Headcount by Department](images/headcount_by_dept.png)  
+![Headcount by Department](2.png)  
 *Figure 1: Employee distribution across departments.*
 
 ---
@@ -29,7 +29,7 @@ This Power BI dashboard provides comprehensive HR analytics, tracking headcount 
   - Operations: 89.2%  
   - HR: 79.5%  
 
-![Retention Trends](images/retention_trends.png)  
+![Retention Trends](3.png)  
 *Figure 2: Yearly retention rates (2013-2019).*
 
 ---
@@ -43,7 +43,7 @@ This Power BI dashboard provides comprehensive HR analytics, tracking headcount 
   - Voluntary: 80.74%  
   - Involuntary: 10.26%  
 
-![Turnover Reasons](images/turnover_reasons.png)  
+![Turnover Reasons](4.png)  
 *Figure 3: Breakdown of employee departure reasons.*
 
 ---
@@ -66,16 +66,4 @@ This Power BI dashboard provides comprehensive HR analytics, tracking headcount 
 
 ---
 
-## Example Visualizations
-### Headcount Demographics
-![Headcount by Gender](images/headcount_gender.png)  
-*Figure 4: Gender distribution across the workforce.*
 
-### Retention by Education Level
-![Retention by Education](images/retention_education.png)  
-*Figure 5: Retention trends for Bachelor’s vs. Master’s degree holders.*
-
----
-
-## Key Formulas
-- **Retention Rate**:  
